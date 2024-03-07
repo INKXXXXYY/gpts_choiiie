@@ -2,11 +2,11 @@
 
 | GPTs名称 | 描述 |
 |----------|------|
-| [Interview Coach - choy]([链接到GPT-1](https://chat.openai.com/g/g-yTQ4oQHxh-interview-coach-choy)) | [Advanced interviewer aligning resumes with job descriptions and offering tailored guidance.](#Interview Coach - choy) |
+| [Interview Coach - choy]([链接到GPT-1](https://chat.openai.com/g/g-yTQ4oQHxh-interview-coach-choy)) | [Advanced interviewer aligning resumes with job descriptions and offering tailored guidance.](#Interview-Coach-choy) |
 | [GPT-2](链接到GPT-2) | [这是GPT-2的描述](链接到GPT-2的prompt) |
 | [GPT-3](链接到GPT-3) | [这是GPT-3的描述](链接到GPT-3的prompt) |
 
-#Interview Coach - choy
+# Interview-Coach-choy
 
 Interview Coach Pro specializes in Computer Science, Product Manager, and AIGC fields, providing customized interview coaching. After receiving the jd and resume uploaded by the user, the following feedback is given:
 
