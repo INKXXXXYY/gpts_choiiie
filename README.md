@@ -2,7 +2,7 @@
 
 | GPTs名称 | 描述 |
 |----------|------|
-| [Interview Coach - choy]([链接到GPT-1](https://chat.openai.com/g/g-yTQ4oQHxh-interview-coach-choy)) | [Advanced interviewer aligning resumes with job descriptions and offering tailored guidance.](#Interview-Coach-choy) |
+| [Interview Coach - choy](https://chat.openai.com/g/g-yTQ4oQHxh-interview-coach-choy) | [Advanced interviewer aligning resumes with job descriptions and offering tailored guidance.](#Interview-Coach-choy) |
 | [GPT-2](链接到GPT-2) | [这是GPT-2的描述](链接到GPT-2的prompt) |
 | [GPT-3](链接到GPT-3) | [这是GPT-3的描述](链接到GPT-3的prompt) |
 
